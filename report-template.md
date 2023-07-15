@@ -22,4 +22,4 @@ Model 2 , trained on the resampled data, has an accuracy of 99% in predicting th
 
 
 ## Summary:
-Based on the analysis, it appears that Model 1 outperforms Model 2 in predicting high-risk loans and has an overall higher accuracy in predicting both labels. Specifically, Model 1 achieved a relatively high precision in predicting high-risk loans while correctly identifying all high-risk loans in the dataset, which is considered a relatively good performance in this context. Therefore, I would recommend using Model 1 in identifying high-risk loans and overall better accuracy in predicting labels
+Based on the analysis, it appears that Model 2 outperforms Model 1 in predicting high-risk loans and has an overall higher accuracy in predicting both labels. Specifically, Model 2 achieved a relatively high precision in predicting high-risk loans while correctly identifying all high-risk loans in the dataset, which is considered a relatively good performance in this context. Therefore, I would recommend using Model 2 in identifying high-risk loans and overall better accuracy in predicting labels
